@@ -1,7 +1,6 @@
-{
 <template>
   <div>
-    <h1>Index Page</h1>
+    <h1>About Page</h1>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia impedit
       nam optio rem assumenda reprehenderit aspernatur voluptates qui soluta
@@ -10,7 +9,7 @@
     </p>
   </div>
 </template>
-}
+
 <style scoped>
 h1 {
   color: blue;
